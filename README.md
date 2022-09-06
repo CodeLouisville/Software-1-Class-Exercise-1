@@ -2,7 +2,7 @@
 ## Goals
 - Create the base classes for the store.
 - Interact with the classes by making some objects and running basic logic on them.
-- Learn how to make a console app wait for certain input before exiting using a loop.
+- Learn how to make a console app wait for certain input before exiting a loop.
 
 ## Instructions
 1. Create a new console app in Visual Studio.  Make sure to give the solution a good name and make sure you create the solution in place that you can find it later.
