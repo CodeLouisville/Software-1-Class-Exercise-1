@@ -1,4 +1,4 @@
-# Software 1 - Class Exercise 2
+# Software 1 - Class Exercise 1
 ## Goals
 - Create the base classes for the store.
 - Interact with the classes by making some objects and running basic logic on them.
